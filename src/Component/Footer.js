@@ -59,11 +59,9 @@ const Footer = () => {
             </div>
           </div>
         </div>
-        <div className="flex pt-6 md:flex-row flex-col gap-4 items-center w-full rounded-lg">
-          <div>All Rights Reserved Bictory © 2023</div>
+          <div className="text-white border-t-2 border-green-300 pt-2" >Copyrights@2023. All rights reserved</div>
         </div>
       </div>
-    </div>
   );
 };
 
